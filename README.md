@@ -1,16 +1,23 @@
-## Hi there 👋
+## About Me
 
-<!--
-**xuanhe168/XuanHe168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Charles — a software engineer, open-source contributor. I love building high-quality, scalable applications, sharing knowledge, and exploring new technologies.
 
-Here are some ideas to get you started:
+I currently work at **China guangdong**, where I develop enterprise-level solutions using **.NET, cloud services, and modern architectural patterns**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+* **Software Engineering** – I specialize in **.NET, cloud computing, microservices, and scalable architectures**. My passion lies in building efficient, well-structured applications.
+
+## Why I Do It
+
+Technology is constantly evolving, and I believe in **continuous learning and knowledge sharing**. Whether through writing, speaking, or open-source contributions, I aim to make complex topics easier to understand and help self grow.
+
+## Let’s Connect
+
+I’d love to hear from you! Whether you’re interested in **software development**, **Flutter**, **.NET**, or **just want to chat about tech**, feel free to reach out.
+
+* [GitHub](https://github.com/Xuanhe168) – Check out my open-source work.
+
+* [Email](wx167788@gmail.com) & [Twitter](https://x.com/EngincanVeske) – Let’s connect!
+
+Thanks for stopping by! 🚀
