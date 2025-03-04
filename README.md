@@ -18,6 +18,6 @@ I’d love to hear from you! Whether you’re interested in **software developme
 
 * [GitHub](https://github.com/Xuanhe168) – Check out my open-source work.
 
-* [Email](wx167788@gmail.com) & [Twitter](https://x.com/EngincanVeske) – Let’s connect!
+* [Google mail](wx167788@gmail.com) & [QQ mail](wx167788@qq.com) – Let’s connect!
 
 Thanks for stopping by! 🚀
